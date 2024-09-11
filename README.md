@@ -17,7 +17,7 @@
   <li>
     <a href="#about-the-project">About The Project</a>
   </li>
-  <li><a href="#quick-usage">Quick Usage</a></li>
+  <li><a href="#quick-usage">Quick e</a></li>
   <li><a href="#contribution">Contribution</a>
     <ul>    
         <li><a href="#Prerequisites">Prerequisites</a></li>
